@@ -1,0 +1,36 @@
+<!--
+<resources>
+    <string name="app_name">MyGoogleMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="spot">
+        <item>美國大峽谷</item>
+        <item>百慕達三角洲</item>
+        <item>車諾比爾</item>
+        <item>巴黎鐵塔</item>
+    </string-array>>
+</resources>
+-->
+
+<resources>
+    <string name="app_name">MyGoogleMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="point_of_view">
+        <item>視角</item>
+        <item>2D</item>
+        <item>3D</item>
+    </string-array>
+    <string-array name="spot">
+        <item>熱門景點</item>
+        <item>美國自由女神</item>
+        <item>紐西蘭南島</item>
+        <item>巴黎鐵塔</item>
+    </string-array>
+    <string-array name="map_type">
+        <item>地圖類型</item>
+        <item>標準街道圖</item>
+        <item>衛星地圖</item>
+        <item>混合地圖</item>
+        <item>地形圖</item>
+        <item>無</item>
+    </string-array>
+</resources>
